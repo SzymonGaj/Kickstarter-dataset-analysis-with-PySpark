@@ -2,6 +2,8 @@
 
 This project was the final project of the subject  **Big Data** at SGH. 
 
+To view the project just download the html file to your desktop and open it with a web browser.
+
 ## Data
 
 The dataset is form Kaggle link below:
