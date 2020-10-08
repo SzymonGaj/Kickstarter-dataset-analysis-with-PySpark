@@ -5,6 +5,7 @@ This project was the final project of the subject  **Big Data** at SGH.
 ## Data
 
 The dataset is form Kaggle link below:
+
 [https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv](https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv)
 
 ## Technologies
